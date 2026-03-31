@@ -177,11 +177,14 @@ Other team members contributed primarily to **Gradient Boosting** and **Logistic
 
 ## 📁 Repository Structure
 
+
+```text
 diabetes-risk-prediction/
 ├── app/          # Streamlit demo application
 ├── notebooks/    # Jupyter notebook (EDA + ML workflow)
 ├── reports/      # Proposal, final report, and presentation slides
 └── README.md
+```
 
 ---
 
